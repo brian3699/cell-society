@@ -1,0 +1,44 @@
+#home-page-root{
+    -fx-background-color: #00539B;
+    -fx-alignment: center;
+    -fx-tile-alignment: center;
+}
+
+#main-menu-button{
+    -fx-background-color: #F3F2F1;
+    -fx-text-fill: #262626;
+    -fx-border-color: #5c5e5e;
+    -fx-alignment: center;
+}
+
+#simulator-root{
+    -fx-background-color: #002c52;
+    -fx-alignment: center;
+    -fx-tile-alignment: center;
+}
+
+#main-menu-vbox{
+    -fx-alignment: center;
+    -fx-tile-alignment: center;
+}
+
+
+#0-cell{
+    -fx-fill: #00539B;
+}
+
+#1-cell{
+    -fx-fill: #F3F2F1;
+}
+
+#2-cell{
+    -fx-fill: #262626;
+}
+
+#simulator-button{
+    -fx-background-color: #F3F2F1;
+    -fx-text-fill: #262626;
+    -fx-border-color: #5c5e5e;
+    -fx-tile-alignment: center;
+    -fx-alignment: center;
+}
